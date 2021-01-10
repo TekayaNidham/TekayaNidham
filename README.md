@@ -1,6 +1,6 @@
 
 <p align=left>  
-  <img align=right src="https://avatars3.githubusercontent.com/u/62834628?s=400&u=624190360ebba77c3802511aaf9afe17d4c63029&v=4"width="150" height="150">
+  <img align=right src="https://drive.google.com/file/d/1eY46WuvOG3sOe4gv-jNCmuMwisayWnWD/view?usp=sharing"width="150" height="150">
  
 </p>
 
