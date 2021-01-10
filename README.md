@@ -1,6 +1,6 @@
 
 <p align=left>  
-  <img align=right src="https://drive.google.com/file/d/1eY46WuvOG3sOe4gv-jNCmuMwisayWnWD/view?usp=sharing"width="150" height="150">
+  <img align=right src="jpg.jpg"width="150" height="150">
  
 </p>
 
