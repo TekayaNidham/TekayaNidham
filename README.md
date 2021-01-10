@@ -24,7 +24,7 @@
 ![Caffe](https://img.shields.io/badge/-Caffe-gray)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-red)
 
-- Environements: ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+- Environments: ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![NVIDIA DIGITS](https://img.shields.io/badge/NVIDIA-DIGITS-green)
 ![Docker](https://img.shields.io/badge/Container-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
 
