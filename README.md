@@ -45,7 +45,6 @@
 - In progress: ![CUDA](https://img.shields.io/badge/-CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
 
 -AI Computing Cards:![Jetson](https://img.shields.io/badge/NVIDIA-Jetson-green)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
 ### Github Stats:
 
